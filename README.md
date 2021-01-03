@@ -1,0 +1,1 @@
+# kanka-doc-schema-generator
